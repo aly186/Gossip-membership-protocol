@@ -1,6 +1,6 @@
 # Gossip-membership-protocol
 
-﻿**MP1 Specification Document** 
+﻿
 
 
 1. **Overview: What Is This MP About?** 
